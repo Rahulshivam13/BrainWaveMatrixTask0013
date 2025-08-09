@@ -2,7 +2,7 @@
 
 
 
-# 💳 ATM Interface - Java Console Application
+# 💳 ATM Interface Using Java
 
 ## 📌 Overview
 This project is a **Java console-based ATM Interface** that allows a user to:
